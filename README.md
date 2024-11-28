@@ -1,6 +1,6 @@
 
 # CSS Эффект
-![Logo](https://github.com/coder-areaweb/CSS_Effects/blob/main/CSS_Effects.png.png)
+![Logo](https://github.com/coder-areaweb/CSS_Effects/blob/main/CSS_Effects.png)
 
 ### Описание курса:
 
